@@ -371,7 +371,7 @@ ANOTHER
 
 STOP2                    
 RET						 
-	
+;LINES 378 THROUGH 427 WERE NOT WRITTEN BY ME	
 ;IN:R0, OUT:R5 (0-success, 1-fail/overflow)
 ;R3: STACK_END R4: STACK_TOP
 ;
