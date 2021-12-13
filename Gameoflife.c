@@ -1,5 +1,5 @@
 #include "updateBoard.h"
-/* netIDs: mkhan331, salkha21, jalenc3/
+/* 
 This progam completes the three functions described in the MP6 page:
 countLiveNeighbor, updateBoard, aliveStable.
 NOTE; WE CHANGED UPDATEBOARD.H to help us call our function in alive stable.
