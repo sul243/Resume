@@ -1,7 +1,7 @@
 #include "shape.hpp"
 
 
-//netID's: mkhan331, salkha21, jalenc3
+
 
 //Base class
 //Please implement Shape's member functions
